@@ -13,7 +13,7 @@ Matamata's glyph shapes are drawn from my principle engagement with the New Zeal
 
 The relative height of the ascenders/descenders is a reflection on the long run of State Highway 27 towards Waharoa. Counters are a reference to the rounded circle shape in the State Highway 27, Firth Street roundabout.
 
-As the place of my birth Matamata holds some emotional significance, but rather it is later periods of my childhood which are referenced in characters such as the ''$' with its internal terminals.
+As the place of my birth Matamata holds some emotional significance, but rather it is later periods of my childhood which are referenced in characters such as the '$' with its internal terminals.
 
 Contrast is very low, x-height and gylph height are high, diacritics are playful.
 
