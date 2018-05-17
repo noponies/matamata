@@ -20,8 +20,8 @@ Contrast is very low, x-height and gylph height are high, diacritics are playful
 Western, Central and South Eastern European languages are supported.
 
 ### Bibliography
-OpenStreetMap contributors. (n.d.). OpenStreetMap. Retrieved from https://www.openstreetmap.org/#map=17/-37.80750/175.77191
+OpenStreetMap contributors. (n.d.). _OpenStreetMap._ Retrieved from https://www.openstreetmap.org/#map=17/-37.80750/175.77191
 
-Friedman, G. (2011). The Love of One's Own and the Importance of Place. Stratfor. Retrieved 20 April 2018, from https://worldview.stratfor.com/article/love-ones-own-and-importance-place
+Friedman, G. (2011). _The Love of One's Own and the Importance of Place._ Stratfor. Retrieved 20 April 2018, from https://worldview.stratfor.com/article/love-ones-own-and-importance-place
 
-Moorfield, J. (2009). Matamata - Māori Dictionary. Maoridictionary.co.nz. Retrieved 20 April 2018, from http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=matamata
+Moorfield, J. (2009). _Matamata - Māori Dictionary._ Maoridictionary.co.nz. Retrieved 20 April 2018, from http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=matamata
